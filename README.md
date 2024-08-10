@@ -19,7 +19,7 @@ This project focuses on analyzing user demographics to gain insights into user e
    - **Methodology**: Created segments such as high-engagement users, new users, returning users, and categorized cities into low, medium, and high user count groups based on quantile analysis.
    - **Key Findings**: Identified key user segments that offer the highest potential for engagement and conversions, such as high-engagement users and cities with large user bases.
    - **Visualizations**:
-     - ![New Users vs Returning Users in Top 20 Cities]((https://github.com/aarish22/DemographyAnalysisUsingPython/blob/main/Plots/newusersvreturningusersintop20cities.png))
+     - ![New Users vs Returning Users in Top 20 Cities](https://github.com/aarish22/DemographyAnalysisUsingPython/blob/main/Plots/newusersvreturningusersintop20cities.png)
 
 ### 3. **Budget Allocation Strategy**
    - **Objective**: Develop data-driven budget allocation strategies for targeted marketing campaigns.
